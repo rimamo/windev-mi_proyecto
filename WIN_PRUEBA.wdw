@@ -22,7 +22,7 @@ window :
      p_codes :
       -
         code : |1+
-         INFO("hola")
+         INFO("hola que tal?")
         type : 18
       -
         type : 161
